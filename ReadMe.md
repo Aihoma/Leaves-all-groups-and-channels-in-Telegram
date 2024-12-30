@@ -1,4 +1,4 @@
-**How to Use :**
+   **How to Use :**
 
 1. Install Dependencies:
    Make sure you have the telethon library installed. You can install it using pip:
@@ -7,13 +7,13 @@ bash
   ╰─➢ pip install telethon
 ==================================
   
- 2. Replace Placeholder Values:
-    ✅YOUR_API_ID,
-    ✅YOUR_API_HASH,
+2. Replace Placeholder Values:
+    ✅YOUR_API_ID
+    ✅YOUR_API_HASH
     ✅+YOUR_PHONE_NUMBER
       with your actual Telegram API credentials and phone number.
     
-  3.Run the Script:
+3.Run the Script:
   
 bash
   ╰─➢ python leave All.py
