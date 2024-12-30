@@ -1,4 +1,4 @@
-[![Instagram]](https://instagram.com/aihoma)
+[![Instagram](https://instagram.com)](https://instagram.com/aihoma)
 [![LinkedIn]](https://linkedin.com/in/https://www.linkedin.com/in/aihoma/)
 [![X]](https://x.com/https://x.com/Ai_Homa)
 [![Hugging Face](https://huggingface.co/AiHoma)
