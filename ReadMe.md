@@ -1,3 +1,19 @@
+## Links
+
+### **Connect with Us**
+[![Homepage](https://img.shields.io/badge/Homepage-DeepSeek-blue?style=flat-square)](https://deepseek.com)
+[![Chat](https://img.shields.io/badge/Chat-Discord-7289DA?style=flat-square&logo=discord)](https://discord.gg/deepseek)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-FFD43B?style=flat-square&logo=huggingface)](https://huggingface.co/deepseek)
+[![Wechat](https://img.shields.io/badge/Wechat-DeepSeek-07C160?style=flat-square&logo=wechat)](https://wechat.com/deepseek)
+[![Twitter](https://img.shields.io/badge/Twitter-DeepSeek-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/deepseek)
+[![Follow](https://img.shields.io/github/followers/deepseek?label=Follow&style=social)](https://github.com/deepseek)
+   
+   
+   
+   
+   
+   
+   
    **How to Use :**
 
 1. Install Dependencies:
