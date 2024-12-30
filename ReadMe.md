@@ -8,9 +8,13 @@ bash
 ==================================
   
 2. Replace Placeholder Values:
+   
     ✅YOUR_API_ID
+   
     ✅YOUR_API_HASH
+   
     ✅+YOUR_PHONE_NUMBER
+   
       with your actual Telegram API credentials and phone number.
     
 3.Run the Script:
