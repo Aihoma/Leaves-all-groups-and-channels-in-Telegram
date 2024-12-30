@@ -1,6 +1,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aihoma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aihoma/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=AiHoma&logoColor=white)](https://x.com/https://x.com/Ai_Homa)
+[![X](https://img.shields.io/badge/X-black.svg?logo=AiHoma&logoColor=white)](https://x.com/Ai_Homa)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AiHoma-FFD43B?style=flat-square&logo=huggingface)](https://huggingface.co/AiHoma)
 [![Telegram](https://img.shields.io/badge/Telegram-AIHOMA-26A5E4?style=flat-square&logo=telegram)](https://t.me/Aihoma)
 [![Follow](https://img.shields.io/github/followers/deepseek?label=Follow&style=social)](https://github.com/AiHoma)
