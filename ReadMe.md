@@ -10,7 +10,7 @@
 1. Install Dependencies:
    Make sure you have the telethon library installed. You can install it using pip:
                         
-bash
+**bash**
   
   ╰─➢ pip install telethon
 ==================================
@@ -27,7 +27,7 @@ bash
     
 3.Run the Script:
   
-bash
+**bash**
   
   ╰─➢ python leave All.py
 ===================================
