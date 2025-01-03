@@ -28,6 +28,7 @@ bash
 3.Run the Script:
   
 bash
+  
   ╰─➢ python leave All.py
 ===================================
 
